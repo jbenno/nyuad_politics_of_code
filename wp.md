@@ -1,6 +1,8 @@
 # Installing and Running a Wordpress Blog
 <sup>[Back to the course wiki](https://github.com/jbenno/nyuad_politics_of_code/wiki/01#wordpress)</sup>
 
+See also [Wordpress Documentation at https://wordpress.org/support/](https://wordpress.org/support/).
+
 #### Prerequisites
 - FTP client (e.g. FileZilla https://filezilla-project.org )
 - Webspace with FTP access (read/write/execute) and PHP 7.x running
@@ -44,4 +46,7 @@ If you download the compressed file wordpress-x.x.x.tar you have to decompress i
 - A minimal wordpress theme: [/wp/simple_theme](/wp/simple_theme)  
 
 
-Upload the file
+Upload the files in a folder under `/wp-content/themes/`.  
+Now the theme can be activated from the `Appearence` menu.
+
+- The files of the themes can be edited under the menu option `Appearence\Theme Editor`
