@@ -1,6 +1,9 @@
 # Installing and Running a Wordpress Blog
 <sup>[Back to the course wiki](https://github.com/jbenno/nyuad_politics_of_code/wiki/01#wordpress)</sup>
 
+https://docs.google.com/document/d/10XJaF4g3He7o52U0zsb4mI234dRYQ2bAnTsIziS9jss
+
+
 See also [Wordpress Documentation at https://wordpress.org/support/](https://wordpress.org/support/).
 
 #### Prerequisites
@@ -38,6 +41,9 @@ If you download the compressed file wordpress-x.x.x.tar you have to decompress i
   In the Menu go to `users` and add yourself as a user. Set the field `Role` to `Administrator` - otherwise you will not be able to do much.
   Log out, and log in with your user name and password.
   The web user interface you are working in is called `dashboard` and can be accessed under the URL `http://nyuadX.f3c.me/wp_admin`.
+  
+#### SQL Database
+https://w008f8b5.kasserver.com/mysqladmin/kaslogin.php
   
 #### Themes
 - The "themes" are administrated in the dashboard under the menu item `Appearence`.
