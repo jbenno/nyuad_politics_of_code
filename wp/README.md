@@ -3,6 +3,10 @@
 
 For full reference on php see https://www.php.net/manual/en/
 
+## PHP
+[Statistics on webpages running on php](https://w3techs.com/technologies/comparison/pl-js,pl-PHP)
+
+
 ## PHP in Wordpress
 
 The Wordpress provides two user interfaces:
