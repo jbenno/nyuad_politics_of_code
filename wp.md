@@ -49,10 +49,6 @@ https://w008f8b5.kasserver.com/mysqladmin/kaslogin.php
 - The "themes" are administrated in the dashboard under the menu item `Appearence`.
 - The files for the themes are located in the folder `/wp-content/themes`.
 - To install new themes you can upload the theme's files to a new folder under /wp-content/themes
-- A minimal wordpress theme: [/wp/simple_theme](/wp/simple_theme)  
 
-
-Upload the files in a folder under `/wp-content/themes/`.  
-Now the theme can be activated from the `Appearence` menu.
-
-- The files of the themes can be edited under the menu option `Appearence\Theme Editor`
+Here we have a closer look on how the theme scripts work:  
+https://github.com/jbenno/nyuad_politics_of_code/blob/master/wp/README.md
