@@ -58,4 +58,55 @@ The command ```echo``` prints text back into the html. It can be any text includ
 
 Reading the variable together with dynamically generating html tags makes Wordpress dynamic:
 
+```html
+<!DOCTYPE html>
+<html <?php language_attributes(); ?>>
+  <head>
+    <meta charset="<?php bloginfo( 'charset' ); ?>" />
+    <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
+    <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
+    <title><?php bloginfo( 'name' ); ?><?php wp_title( '&mdash;' ); ?></title>
+  </head>
 
+  <body <?php body_class(); ?>>
+        <h1><a href="<?php bloginfo('url'); ?>"><?php bloginfo( 'name' ); ?></a></h1>
+        <p id="description"><?php bloginfo( 'description' ); ?></p> 
+  </body>
+</html>
+```
+
+The basic function call for the site to become managed via the Wordpress database, however, is `the loop`:
+```php
+<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
+```
+... which is sitting in the body of the html page:
+
+```html
+<!DOCTYPE html>
+<html <?php language_attributes(); ?>>
+  <head>
+    <meta charset="<?php bloginfo( 'charset' ); ?>" />
+    <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
+    <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
+    <title><?php bloginfo( 'name' ); ?><?php wp_title( '&mdash;' ); ?></title>
+  </head>
+
+  <body <?php body_class(); ?>>
+        <h1><a href="<?php bloginfo('url'); ?>"><?php bloginfo( 'name' ); ?></a></h1>
+        <p id="description"><?php bloginfo( 'description' ); ?></p> 
+
+         <?php
+         	if ( have_posts() ) : while ( have_posts() ) : the_post();
+         ?>
+         	<h2><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
+         <?php 
+            the_content();
+         	endwhile;
+         	endif;
+         ?>
+  </body>
+</html>
+```
+
+Here you find the files to set up the simple theme including some basic styling:  
+https://github.com/jbenno/nyuad_politics_of_code/tree/master/wp/simple_theme
