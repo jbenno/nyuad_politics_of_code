@@ -76,6 +76,8 @@ Reading the variable together with dynamically generating html tags makes Wordpr
 </html>
 ```
 
+### The Loop
+
 The basic function call for the site to become managed via the Wordpress database, however, is `the loop`:
 ```php
 <?php
@@ -84,7 +86,7 @@ The basic function call for the site to become managed via the Wordpress databas
 	endif
 ?>
 ```
-... which is sitting in the body of the html page:
+... which is sitting in the body of the html page. Here is the example with the '}'-brackets:
 
 ```html
 <!DOCTYPE html>
@@ -101,21 +103,52 @@ The basic function call for the site to become managed via the Wordpress databas
         <p id="description"><?php bloginfo( 'description' ); ?></p> 
 
          <?php
-         	if ( have_posts() ) : while ( have_posts() ) : the_post();
+         	if ( have_posts() ) {
+         		while ( have_posts() ) {
+         			the_post();
+         			echo '<h2><a href="'; the_permalink(); echo'">';
+         			the_title(); echo'</a></h2>';
+         			the_content();
+         			} 
+         	} else {
+         		echo '404 Content not found';
+         	}
          ?>
-         	<h2><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
-         <?php 
-            the_content();
-         	endwhile;
-		else : echo "404 Content not found";
-         	endif;
-         ?>
+
   </body>
 </html>
 ```
-Documentation of the loop:  
+
+### WP_Query
+
+More generally, the content of the site can be queried and displayd using the ```WP_Query()``` function. If I want e.g. to display only posts written by me I can filter the results with the argument ```'author_name' => 'jbenno'```:
+
+```html
+         <?php
+         	$the_query = new WP_Query(array('author_name' => 'jbenno'));
+         	if ( $the_query->have_posts() ) {
+         		while ( $the_query->have_posts() ) {
+         			$the_query->the_post();
+         			echo '<h2><a href="'; the_permalink(); echo'">';
+         			the_title(); echo'</a></h2>';
+         			the_content();
+         			} 
+         	} else {
+         		echo '404 Content not found';
+         	}
+         ?>
+```
+
+The arguments in ```WP_Query``` can filter by any parameter of the post including values stored in custom variables in the post_meta array. the post_meta value is just a string and can easily get quite confusing, however it offers full flexibility to shape whatever criterea is needed.
+
+Appart from filtering, WP_Query also allows sorting and controlling how many posts to display.  
+By defining multiple queries it is possible to display different lineups of posts on the same page.
+
+Documentation of the Loop:  
 https://developer.wordpress.org/themes/basics/the-loop/
 
+Documentation of WP_Query:  
+https://developer.wordpress.org/reference/classes/wp_query/
 
 
 Here you find the files to set up the simple theme including some basic styling:  
