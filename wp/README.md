@@ -1,5 +1,5 @@
 # Wordpress and PHP
-<sup>Go to this link to get back to the [Politics of Code homepage with syllabus and all information](https://github.com/jbenno/nyuad_politics_of_code/wiki).</sup>
+<sup>[Back to the course wiki](https://github.com/jbenno/nyuad_politics_of_code/wiki).</sup>
 
 For full reference on php see https://www.php.net/manual/en/
 
