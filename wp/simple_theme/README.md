@@ -1,1 +1,1 @@
-the simplest version of a wordpress theme
+a simple version of a wordpress theme
