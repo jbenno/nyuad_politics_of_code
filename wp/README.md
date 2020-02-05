@@ -78,7 +78,11 @@ Reading the variable together with dynamically generating html tags makes Wordpr
 
 The basic function call for the site to become managed via the Wordpress database, however, is `the loop`:
 ```php
-<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
+<?php
+	if ( have_posts() ) : while ( have_posts() ) : the_post();
+	endwhile;
+	endif
+?>
 ```
 ... which is sitting in the body of the html page:
 
@@ -103,11 +107,16 @@ The basic function call for the site to become managed via the Wordpress databas
          <?php 
             the_content();
          	endwhile;
+		else : echo "404 Content not found";
          	endif;
          ?>
   </body>
 </html>
 ```
+Documentation of the loop:  
+https://developer.wordpress.org/themes/basics/the-loop/
+
+
 
 Here you find the files to set up the simple theme including some basic styling:  
 https://github.com/jbenno/nyuad_politics_of_code/tree/master/wp/simple_theme
