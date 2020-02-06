@@ -1,0 +1,17 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+	color: blue;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 20px;
+}
