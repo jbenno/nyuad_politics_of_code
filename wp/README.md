@@ -54,7 +54,7 @@ The command ```echo``` prints text back into the html. It can be any text includ
 		<?php
 			bloginfo( 'charset' );
 			echo "<br>";
-			echo "The echo command prints out text that is interpreted as html"
+			echo "The echo command prints out text that is interpreted as html";
 			echo "<br>";
 			bloginfo( 'stylesheet_url' );
 		?>
