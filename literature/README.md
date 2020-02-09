@@ -3,4 +3,4 @@
 
 Only papers which cannot be accessed via the NYU library or other academic credentials go here.
 
-- Omar Kholeif editor of compilation. You Are Here: Art after the Internet. Manchester: Cornerhouse ; London, 2014.
+- Omar Kholeif editor of compilation. You Are Here: Art after the Internet. Manchester: Cornerhouse ; London, 2014. [omar-kholeif-you-are-here-art-after-the-internet-1.pdf](https://github.com/jbenno/nyuad_politics_of_code/blob/master/literature/omar-kholeif-you-are-here-art-after-the-internet-1.pdf)
