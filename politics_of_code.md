@@ -145,30 +145,13 @@ The standard writing requirement for all core courses is to write papers of form
 
 ## Politics and Code: Criticism of Technology
 
-> "Be conservative in what you do. Be liberal in what you accept from others."<sup>[Postel 1980](https://tools.ietf.org/html/rfc761#section-2.10)</sup>  
-> It may seem strange that such a philosophical, perhaps even spiritual, principle should be embedded in the articulation of the Internet, but then network design, like all design, can be understood as ideology embodied, and the Internet clearly bore the stamp of the opposition to bigness characteristic of the era. Not long thereafter, three professors of computer science, David Reed, David Clark, and Jerome Saltzer, would try to explain what made the Internet so distinctive and powerful. In a seminal paper of 1984, “End-to-End Arguments in System Design,” they argued for the enormous potential inherent in decentralizing decisional authority—giving it to the network users (the “ends”). The network itself (the “middle”) should, they insisted, be as nonspecialized as possible, so as to serve the “ends” in any ways they could imagine. What were such notions if not the computer science version of what Hayek and Jacobs, Kohr and Schumacher, had been arguing. While we cannot say exactly that the network pioneers of the 1970s were disciples of these or any particular thinker, there is no denying the general climate of thought in which computer scientists were living, along with everybody else. Coming of age concurrently with an ideological backlash against centralized planning and authority, the Internet became a creature of its times.
-
-Wu, Tim. The Master Switch: The Rise and Fall of Information Empires. Reprint edition. New York: Vintage, 2011.
-
 - Menn, Joseph. “Exclusive: Apple Dropped Plan for Encrypting Backups after FBI Complained - Sources.” Reuters, January 21, 2020. https://www.reuters.com/article/us-apple-fbi-icloud-exclusive-idUSKBN1ZK1CT.
 - Shieber, Jonathan. “Google Backtracks on Search Results Design | TechCrunch.” Accessed January 28, 2020. https://techcrunch.com/2020/01/24/google-backtracks-on-search-results-design/.
-
-## Publishing Online
-### Wordpress
-- Wordpress at nyu.edu: https://wp.nyu.edu/
-- Setting up your own Wordpress blog: https://github.com/jbenno/nyuad_politics_of_code/blob/master/wp.md
-
-### Web services for publishing posts
-- https://github.com
-- https://medium.com
-- https://wordpress.com
 
 ## Studio
 - Understanding Wordpress
 - Basics in blogging/online publishing
 - Setting up a blog and writing a post
-
-- Assigning the first talks and presentations
 
 ### Readings
 - Meeker, Mary. “Internet Trends 2019.” Code, June 11, 2019. https://www.bondcap.com.
@@ -182,18 +165,10 @@ Wu, Tim. The Master Switch: The Rise and Fall of Information Empires. Reprint ed
 
 - Chadwick, James. “Facebook Advertising Decoded in 15 Minutes.” Medium, January 18, 2020. https://medium.com/better-marketing/facebook-advertising-decoded-in-15-minutes-3b43e96f76b5.
 # The Politics of Artefacts
-## Readings and Assignment
+## Readings
 - Winner, Langdon. "Do Artifacts Have Politics?" Daedalus 109, no. 1 (1980): 121-36. www.jstor.org/stable/20024652.  
 - Woolgar, Steve, and Geoff Cooper. "Do Artefacts Have Ambivalence? Moses' Bridges, Winner's Bridges and Other Urban Legends in S&TS." Social Studies of Science 29, no. 3 (1999): 433-49. www.jstor.org/stable/285412.
 - Tveten, Julianne. “Code Is Political.” Vice (blog), March 1, 2016. https://www.vice.com/en_us/article/3dak5w/code-is-political.
-
-Read the texts by Winner and Woolgar et al.
-- Make notes what you find remarkable and what you find difficult (hard to follow as well as difficult because you disagree)
-- Read the post by J. Tveten.
-- Think of at least one example from your own experience of a political technology (democratic or autoritarian)
-- Write down your notes in a short post - no full sentences or paragraphs, just bullet points or stubs as they come to your mind.
-
-- For next week: [Readings and Assignments](https://github.com/jbenno/nyuad_politics_of_code/wiki/03/#readings-and-assignments)
 
 ## Studio
 - PHP
@@ -203,7 +178,7 @@ Read the texts by Winner and Woolgar et al.
 ## Talks for the semester
 - https://docs.google.com/spreadsheets/d/1StQtCHebt9N1iYmgUWk6Biaq2L8wvsXgRbSctaSprfc/edit?usp=sharing
 
-## Readings and Assignments
+## Readings
 ### Oikos and Polis
 - Hayden, Patrick. Hannah Arendt: Key Concepts. Routledge, 2014. p. 127 ff.
 
