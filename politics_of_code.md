@@ -1,40 +1,6 @@
 # Politics of Code
 ### NYU Abu Dhabi, Interactive Media
 ### Spring 2020, IM-UH 3310
-#### Joerg Blumtritt
-[Additional information on assignments, grading, administrative matters](https://github.com/jbenno/nyuad_politics_of_code/wiki/Additional-Information)
-
-*Deconstructing the design and implementation of software as a political medium and re-building functional alternatives.*
-
-Code is political, as means of political processes and activism, as well as inherently by the ethical choices often hidden in the black box of *The Algorithm*.
-In the course we aim to deconstruct the design, implementation, and data of software as a political medium. We will work through political applications such as simulations, urban life and the "smart city", ownership of intangible assets, predictive policing, algorithmic recommendations, suggestions, and filters, social networks, and the blockchain.
-
-Along with an introduction to the related political theory and media studies, students will work on several hands-on projects to offer actual or speculative alternatives to the existing systems. To that end, this course will include several workshops in JavaScript, Python, and other tools.
-
-***
-
-## Schedule
-*Subject to modification and clarification*
-
-#### [Introduction](https://github.com/jbenno/nyuad_politics_of_code/wiki/01)
-#### [The Politics of Artefacts](https://github.com/jbenno/nyuad_politics_of_code/wiki/02)
-#### [Public and Private](https://github.com/jbenno/nyuad_politics_of_code/wiki/03)
-#### [Social Media](https://github.com/jbenno/nyuad_politics_of_code/wiki/04)
-#### [Surveillance and Control](https://github.com/jbenno/nyuad_politics_of_code/wiki/05)
-#### [Big Data](https://github.com/jbenno/nyuad_politics_of_code/wiki/06)
-#### [Global and Local](https://github.com/jbenno/nyuad_politics_of_code/wiki/07)
-#### [Labor, Authorship, Property](https://github.com/jbenno/nyuad_politics_of_code/wiki/08)
-#### [Modeling Society](https://github.com/jbenno/nyuad_politics_of_code/wiki/09)
-#### [AI and Biases](https://github.com/jbenno/nyuad_politics_of_code/wiki/10)
-#### [Blockchain, Crypto-economics and crypto-politics](https://github.com/jbenno/nyuad_politics_of_code/wiki/11)
-#### [Future politics: Platform cooperativism, proxy voting, and more](https://github.com/jbenno/nyuad_politics_of_code/wiki/12)
-#### [From McLuhan to Lacan: The future of self, mind, and body post internet](https://github.com/jbenno/nyuad_politics_of_code/wiki/13)
-#### [Final Project](https://github.com/jbenno/nyuad_politics_of_code/wiki/14)
-
-# Politics of Code - Additional Information
-
-[Week by week schedule](https://github.com/jbenno/nyuad_politics_of_code/wiki#schedule)
-
 #### Instructor: Joerg Blumtritt
 #### Course Number: IM-UH 3310
 
@@ -44,6 +10,16 @@ Time: Tues. 14:40 - 15:55, Thurs. 13:15 - 15:55
 Classroom: IM Lab C3-029  
 Office Hours: Wednesdays by appointment  
 Office: C3 163  
+
+
+*Deconstructing the design and implementation of software as a political medium and re-building functional alternatives.*
+
+Code is political, as means of political processes and activism, as well as inherently by the ethical choices often hidden in the black box of *The Algorithm*.
+In the course we aim to deconstruct the design, implementation, and data of software as a political medium. We will work through political applications such as simulations, urban life and the "smart city", ownership of intangible assets, predictive policing, algorithmic recommendations, suggestions, and filters, social networks, and the blockchain.
+
+Along with an introduction to the related political theory and media studies, students will work on several hands-on projects to offer actual or speculative alternatives to the existing systems. To that end, this course will include several workshops in JavaScript, Python, and other tools.
+
+***
 
 ## Teaching and Learning Methodologies
 
@@ -99,6 +75,7 @@ Diversity and inclusion are important tenets of NYUAD and my own teaching philos
 The mandatory policies and procedures relating to academic integrity can be found here:  
 https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/academic-integrity-for-students-at-nyu.html
 
+# Guidelines
 ## Assignments
 - The week by week assignments as well as signed talks and presentations can be found in this spreadsheet: https://docs.google.com/spreadsheets/d/1StQtCHebt9N1iYmgUWk6Biaq2L8wvsXgRbSctaSprfc/edit?usp=sharing
 - Please send me your writing or other materials via email. Links are fine, too.
@@ -141,6 +118,27 @@ The standard writing requirement for all core courses is to write papers of form
 - Followed by questions and discussion
 - Can use any form of presentation technique (any form of media)
 - Documentation and material is shared with the class afterwards
+
+***
+
+# Schedule
+==========
+*Subject to modification and clarification*
+
+#### [Introduction](https://github.com/jbenno/nyuad_politics_of_code/wiki/01)
+#### [The Politics of Artefacts](https://github.com/jbenno/nyuad_politics_of_code/wiki/02)
+#### [Public and Private](https://github.com/jbenno/nyuad_politics_of_code/wiki/03)
+#### [Social Media](https://github.com/jbenno/nyuad_politics_of_code/wiki/04)
+#### [Surveillance and Control](https://github.com/jbenno/nyuad_politics_of_code/wiki/05)
+#### [Big Data](https://github.com/jbenno/nyuad_politics_of_code/wiki/06)
+#### [Global and Local](https://github.com/jbenno/nyuad_politics_of_code/wiki/07)
+#### [Labor, Authorship, Property](https://github.com/jbenno/nyuad_politics_of_code/wiki/08)
+#### [Modeling Society](https://github.com/jbenno/nyuad_politics_of_code/wiki/09)
+#### [AI and Biases](https://github.com/jbenno/nyuad_politics_of_code/wiki/10)
+#### [Blockchain, Crypto-economics and crypto-politics](https://github.com/jbenno/nyuad_politics_of_code/wiki/11)
+#### [Future politics: Platform cooperativism, proxy voting, and more](https://github.com/jbenno/nyuad_politics_of_code/wiki/12)
+#### [From McLuhan to Lacan: The future of self, mind, and body post internet](https://github.com/jbenno/nyuad_politics_of_code/wiki/13)
+#### [Final Project](https://github.com/jbenno/nyuad_politics_of_code/wiki/14)
 
 # Introduction
 [Houskeeping and administrative matters](https://github.com/jbenno/nyuad_politics_of_code/wiki/Additional-Information)
