@@ -1,18 +1,10 @@
 # Politics of Code
 ### NYU Abu Dhabi, Interactive Media
 ### Spring 2020, IM-UH 3310
-#### Instructor: Joerg Blumtritt
-#### Course Number: IM-UH 3310
+#### Joerg Blumtritt
+[Additional information on assignments, grading, administrative matters](https://github.com/jbenno/nyuad_politics_of_code/wiki/Additional-Information)
 
-Credit Hours: 4  
-Prerequisites: IM-UH 1010, IM-UH 2310, CS-UH 1001 or ENGR-UH 1000  
-Time: Tues. 14:40 - 15:55, Thurs. 13:15 - 15:55  
-Classroom: IM Lab C3-029  
-Office Hours: Wednesdays by appointment  
-Office: C3 163  
-
-
-*Deconstructing the design and implementation of digital technology as a political medium and re-building functional alternatives.*
+*Deconstructing the design and implementation of software as a political medium and re-building functional alternatives.*
 
 Code is political. Digital media are powerful platforms to publish, to communicate, and to organize. The algorithms contain all kinds of ethical choices in their parameters, and in the data on which they rely.  
 
@@ -20,38 +12,33 @@ We want to critique the design, implementation, and data of digital technology. 
 
 The course leads through the different aspects of politics in interactive media and gives introductions to the related media studies and political theory. In practical exercises, students will work on projects in JavaScript, Python, and PHP, and develop their ideas of alternative technologies and speculative designs.
 
+***
 
 # Schedule
-==========
 *Subject to modification and clarification*
 
-#### [Introduction](https://github.com/jbenno/nyuad_politics_of_code/wiki/01)
-#### [The Politics of Artefacts](https://github.com/jbenno/nyuad_politics_of_code/wiki/02)
-#### [Public and Private](https://github.com/jbenno/nyuad_politics_of_code/wiki/03)
-#### [Social Media](https://github.com/jbenno/nyuad_politics_of_code/wiki/04)
-#### [Surveillance and Control](https://github.com/jbenno/nyuad_politics_of_code/wiki/05)
-#### [Big Data](https://github.com/jbenno/nyuad_politics_of_code/wiki/06)
-#### [Global and Local](https://github.com/jbenno/nyuad_politics_of_code/wiki/07)
-#### [Labor, Authorship, Property](https://github.com/jbenno/nyuad_politics_of_code/wiki/08)
-#### [Modeling Society](https://github.com/jbenno/nyuad_politics_of_code/wiki/09)
-#### [AI and Biases](https://github.com/jbenno/nyuad_politics_of_code/wiki/10)
-#### [Blockchain, Crypto-economics and crypto-politics](https://github.com/jbenno/nyuad_politics_of_code/wiki/11)
-#### [Future politics: Platform cooperativism, proxy voting, and more](https://github.com/jbenno/nyuad_politics_of_code/wiki/12)
-#### [From McLuhan to Lacan: The future of self, mind, and body post internet](https://github.com/jbenno/nyuad_politics_of_code/wiki/13)
-#### [Final Project](https://github.com/jbenno/nyuad_politics_of_code/wiki/14)
+## [Introduction](https://github.com/jbenno/nyuad_politics_of_code/wiki/01)
 
-# Introduction
-[Houskeeping and administrative matters](https://github.com/jbenno/nyuad_politics_of_code/wiki/Additional-Information)
-
-## Politics and Code: Criticism of Technology
-
+- Wu, Tim. The Master Switch: The Rise and Fall of Information Empires. Reprint edition. New York: Vintage, 2011.
 - Menn, Joseph. “Exclusive: Apple Dropped Plan for Encrypting Backups after FBI Complained - Sources.” Reuters, January 21, 2020. https://www.reuters.com/article/us-apple-fbi-icloud-exclusive-idUSKBN1ZK1CT.
 - Shieber, Jonathan. “Google Backtracks on Search Results Design | TechCrunch.” Accessed January 28, 2020. https://techcrunch.com/2020/01/24/google-backtracks-on-search-results-design/.
 
-## Studio
+### Publishing Online
+#### Wordpress
+- Wordpress at nyu.edu: https://wp.nyu.edu/
+- Setting up your own Wordpress blog: https://github.com/jbenno/nyuad_politics_of_code/blob/master/wp.md
+
+#### Web services for publishing posts
+- https://github.com
+- https://medium.com
+- https://wordpress.com 
+
+### Studio
 - Understanding Wordpress
 - Basics in blogging/online publishing
 - Setting up a blog and writing a post
+
+- Assigning the first talks and presentations
 
 ### Readings
 - Meeker, Mary. “Internet Trends 2019.” Code, June 11, 2019. https://www.bondcap.com.
@@ -64,29 +51,27 @@ The course leads through the different aspects of politics in interactive media 
 - Seib, Philip. “Why Some Arab Countries Want to Shutter Al Jazeera.” The Conversation. Accessed January 3, 2020. http://theconversation.com/why-some-arab-countries-want-to-shutter-al-jazeera-80600.
 
 - Chadwick, James. “Facebook Advertising Decoded in 15 Minutes.” Medium, January 18, 2020. https://medium.com/better-marketing/facebook-advertising-decoded-in-15-minutes-3b43e96f76b5.
-# The Politics of Artefacts
-## Readings
+
+## [The Politics of Artefacts]
+### Readings
 - Winner, Langdon. "Do Artifacts Have Politics?" Daedalus 109, no. 1 (1980): 121-36. www.jstor.org/stable/20024652.  
 - Woolgar, Steve, and Geoff Cooper. "Do Artefacts Have Ambivalence? Moses' Bridges, Winner's Bridges and Other Urban Legends in S&TS." Social Studies of Science 29, no. 3 (1999): 433-49. www.jstor.org/stable/285412.
 - Tveten, Julianne. “Code Is Political.” Vice (blog), March 1, 2016. https://www.vice.com/en_us/article/3dak5w/code-is-political.
 
-## Studio
-- PHP
+### Studio
+- php
 
-# Public and Private
+## [Public and Private](https://github.com/jbenno/nyuad_politics_of_code/wiki/03)
 
-## Talks for the semester
-- https://docs.google.com/spreadsheets/d/1StQtCHebt9N1iYmgUWk6Biaq2L8wvsXgRbSctaSprfc/edit?usp=sharing
-
-## Readings
-### Oikos and Polis
+### Readings
+#### Oikos and Polis
 - Hayden, Patrick. Hannah Arendt: Key Concepts. Routledge, 2014. p. 127 ff.
 
-### The public sphere
+#### The public sphere 
 - Dullaart, Constant. "Where to for public space?" in: Omar Kholeif editor of compilation. You Are Here: Art after the Internet. Manchester: Cornerhouse ; London, 2014. [omar-kholeif-you-are-here-art-after-the-internet-1.pdf](https://github.com/jbenno/nyuad_politics_of_code/blob/master/literature/omar-kholeif-you-are-here-art-after-the-internet-1.pdf) pp 142 to 148.
 - “Jürgen Habermas and the Public Sphere.” Accessed January 3, 2020. http://www.media-studies.ca/articles/habermas.htm.
 - Fraser, Nancy. “Rethinking the Public Sphere: A Contribution to the Critique of Actually Existing Democracy.” Social Text, no. 25/26 (1990): 56–80. https://doi.org/10.2307/466240.
-- Overland, Indra. (2018). Introduction: Civil Society, Public Debate and Natural Resource Management. https://link.springer.com/chapter/10.1007/978-3-319-60627-9_1.
+- Overland, Indra. (2018). Introduction: Civil Society, Public Debate and Natural Resource Management. https://link.springer.com/chapter/10.1007/978-3-319-60627-9_1. 
 - Barlow, John Perry. “A Declaration of the Independence of Cyberspace.” Electronic Frontier Foundation, February 8, 1996. https://www.eff.org/cyberspace-independence.
 - Blumtritt, Joerg. “The Idiot – a Topical Figure Again?” Slow Media (blog), January 30, 2011. http://en.slow-media.net/the-idiot-a-topical-figure-again.
 - Doctorow, Cory. “Adversarial Interoperability.” Electronic Frontier Foundation, October 2, 2019. https://www.eff.org/deeplinks/2019/10/adversarial-interoperability.
@@ -94,7 +79,7 @@ The course leads through the different aspects of politics in interactive media 
 #### Public space and "public-private partnerships" (ppp)
 - Mattern, Shannon. “Post-It Note City.” Places Journal, February 11, 2020. https://placesjournal.org/article/post-it-note-city/.
 
-## Studio
+### Studio
 [twittermute.txt](https://gist.github.com/IanColdwater/88b3341a7c4c0cf71c73ac56f9bd36ec)
 
 - Business models and their implications:
@@ -103,10 +88,9 @@ The course leads through the different aspects of politics in interactive media 
 	- Open source
 	- Distributed autonomous organizations
 - The stack: APIs, Apps, IFTTT, Skills, Tiao yi Tiao etc.
-- We re-engineer business plans of publishing platforms; "Adversarial Iteroperability"
+- We re-engineer business plans of publishing platforms; "Adversarial Iteroperability" 
 
-# Social Media
-
+## [Social Media](https://github.com/jbenno/nyuad_politics_of_code/wiki/04)
 ### Art
 - [Lauren McCarthy](https://lauren-mccarthy.com/)
 - [Eva and Franco Mattes](https://0100101110101101.org/)
@@ -129,7 +113,7 @@ The course leads through the different aspects of politics in interactive media 
 - Geuter, Jürgen. “Speaking about Dark Twitter at Theorizing the Web 15 #ttw15.” Nodes in a Social Network (blog), January 27, 2015. https://tante.cc/2015/01/28/speaking-theorizing-web-15-ttw15/.
 - Hafner, Katie. “The Epic Saga of The Well | WIRED,” 1997. https://www.wired.com/1997/05/ff-well/.
 
-## Studio
+### Studio
 #### Wikimedia stack
 - Nice pages which run on the wikimedia engine:
     - [Choral Public Domain Library](http://www1.cpdl.org/wiki/index.php/Main_Page)
@@ -144,7 +128,7 @@ The course leads through the different aspects of politics in interactive media 
 #### The abyss of social media
 - Reddit, 4Chan, etc.
 
-# Surveillance and Control
+## [Surveillance and Control](https://github.com/jbenno/nyuad_politics_of_code/wiki/05)
 
 ### Foundations
 - Michel Foucault. Discipline and Punish: The Birth of the Prison. 2nd Vintage books ed. New York: Vintage Books, 1995. https://monoskop.org/images/4/43/Foucault_Michel_Discipline_and_Punish_The_Birth_of_the_Prison_1977_1995.pdf. pp 141
@@ -178,59 +162,57 @@ The course leads through the different aspects of politics in interactive media 
 ... an alternative opinion (however very likely to be well crafted PR for Facebook):  
 - Lehrer-Stein, Janni. “Opinion | What It’s Like to Use Facebook When You’re Blind.” The New York Times, January 17, 2020, sec. Opinion. https://www.nytimes.com/2020/01/17/opinion/sunday/facebook-facial-recognition-accessibility.html.
 
-## Studio
+### Studio
 - CryptoParty and cyber self-defense
 - Surveillance and physical computing
 
-# Big Data
-## What is Big Data?
+## [Big Data](https://github.com/jbenno/nyuad_politics_of_code/wiki/06)
 
 ### Readings
 - Elish, M. C., and Danah Boyd. “Situating Methods in the Magic of Big Data and Artificial Intelligence.” SSRN Scholarly Paper. Rochester, NY: Social Science Research Network, September 20, 2017. https://papers.ssrn.com/abstract=3040201.  
 [Local download link: Boyd_MagicOfBigDataAndArtificialIntelligence.pdf](https://github.com/jbenno/nyuad_politics_of_code/blob/master/literature/Boyd_MagicOfBigDataAndArtificialIntelligence.pdf)  
 - Blumtritt, Joerg. “Data Stories: From Facts to Fiction.” DATARELLA (blog), July 21, 2014. https://datarella.com/data-stories-from-facts-to-fiction/.
 
-## Studio
-### Streetfighting Data Science
+### Studio
+#### Streetfighting Data Science
 1. Getting data: data generation, JSON, APIs, scraping
 2. Storing and retrieving data: MongoDB, AWS
 3. Data munging: Python, Jupyter Notebooks
 4. Analytics: Statistics of Big Data
 5. Viz: D3
 
-### Textmining
+#### Textmining
 - Jupyter notebooks, Python numpy and nltk  
-https://drive.google.com/open?id=1yj2ryRedzWydi7-Us92gyo1gIG4wwJIv
 
-# Global and Local, Diversity and Norm
+## [Global and Local](https://github.com/jbenno/nyuad_politics_of_code/wiki/07)
 
-### Identity
+#### Identity
 - Renner, Nausicaa. “How Social Media Shapes Our Identity.” The New Yorker, August 8, 2019. https://www.newyorker.com/books/under-review/how-social-media-shapes-our-identity.
 - Hecht, Michael L., and Yu Lu. “Communication Theory of Identity.” In Encyclopedia of Health Communication, 226–27. Thousand Oaks: SAGE Publications, Inc., 2014. https://doi.org/10.4135/9781483346427.  
-
+  
 Nostalgia: The 1688 thesis that first defined the term
 - Hofer, Johannes. Dissertatio Medica de Nostalgia, Oder Heimwehe, 1688. https://www.e-rara.ch/bau_1/5963369.
 
-### The Global Norm
-- Queerious Labs. “Queerious Labs - Manifesto.” Accessed January 6, 2020. https://queeriouslabs.com/manifesto/.
+#### The Global Norm
+- Queerious Labs. “Queerious Labs - Manifesto.” Accessed January 6, 2020. https://queeriouslabs.com/manifesto/. 
 - Blumtritt, Joerg. “Everything Is Turned into a Highway.” Slow Media (blog), November 30, 2010. http://en.slow-media.net/everything-is-turned-into-a-highway.
 
-### Role of Women and Tech Misogyny
+#### Role of Women and Tech Misogyny
 - Evans, Claire L. Broad Band: The Untold Story of the Women Who Made the Internet. New York, New York: Portfolio, 2018.
 - Brewer, Kirstie. “How the Tech Industry Wrote Women out of History.” The Guardian, August 10, 2017, sec. Guardian Careers. https://www.theguardian.com/careers/2017/aug/10/how-the-tech-industry-wrote-women-out-of-history.
 - Kolhatkar, Sheelah. “The Tech Industry’s Gender-Discrimination Problem,” November 13, 2017. https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem.
 
-### Minitel
+#### Minitel
 - Mailland, Julien. “Minitel, the Open Network Before the Internet.” The Atlantic, June 16, 2017. https://www.theatlantic.com/technology/archive/2017/06/minitel/530646/.
 - McGrath, Dermot. “Minitel: The Old New Thing.” Wired, April 18, 2001. https://www.wired.com/2001/04/minitel-the-old-new-thing/.
 - Schofield, Hugh. “The Rise and Fall of the France-Wide Web.” BBC News, June 28, 2012, sec. Magazine. https://www.bbc.com/news/magazine-18610692.
 
-### Edit-a-ton
+#### Edit-a-ton
 - https://en.wikipedia.org/wiki/Wikipedia:How_to_run_an_edit-a-thon
 - https://www.moma.org/calendar/events/5229
 
-## Studio
-### Identity internet
+### Studio
+#### Identity internet
 - Minitel
 - Internet blackout
 - GDPR
@@ -238,8 +220,10 @@ Nostalgia: The 1688 thesis that first defined the term
 - Nasser, Ramsey. قلب” .2014.” https://nas.sr/%D9%82%D9%84%D8%A8/.
 - Choi, Charles. “World’s First Classical Chinese Programming Language - IEEE Spectrum.” IEEE Spectrum: Technology, Engineering, and Science News, January 31, 2020. https://spectrum.ieee.org/tech-talk/computing/software/classical-chinese.
 
-# Labour, Authorship, Property
-### Foundations
+
+## [Labor, Authorship, Property](https://github.com/jbenno/nyuad_politics_of_code/wiki/08)
+
+#### Foundations
 - The Origin of Inequality - "The Second Part" of  
 Jean-Jacques Rousseau. A Dissertation On the Origin and Foundation of
 The Inequality of Mankind and is it Authorised by Natural Law?  
@@ -248,52 +232,54 @@ From: Jean-Jacques Rousseau. The Social Contract ; and, Discourses. Translated
 - Chapter Ten: Intellectual Propetry. In Lessig, Lawrence. Code: Version 2.0. [2nd ed.]. New York: Basic Books, 2006.  
 http://codev2.cc/download+remix/Lessig-Codev2.pdf
 
-### Labour and Exploitation
+#### Labour and Exploitation
 - Semuels, Alana. “The Internet Is Enabling a New Kind of Poorly Paid Hell.” The Atlantic, January 23, 2018. https://www.theatlantic.com/business/archive/2018/01/amazon-mechanical-turk/551192/.
 - Newman, Andy. “I Found Work on an Amazon Website. I Made 97 Cents an Hour.” The New York Times, November 15, 2019, sec. New York. https://www.nytimes.com/interactive/2019/11/15/nyregion/amazon-mechanical-turk.html.
 - Sunde, Peter. “Transmediale Talk 2015 — Copy Me Happy,” May 29, 2015. https://blog.brokep.com/2015/05/29/transmediale-talk-2015/.
 - Blumtritt, Joerg. “The Army of Technological Slaves.” Slow Media, July 27, 2010. http://en.slow-media.net/technological-slaves.
 
 
-### Property
+#### Property
 - Lessig, Lawrence. “Laws That Choke Creativity.” Accessed January 6, 2020. https://www.ted.com/talks/lawrence_lessig_laws_that_choke_creativity/transcript.
 - Rutenberg, Isaac. “Faking It: Time to Rethink Intellectual Property in Developing Countries?” The Guardian, October 29, 2013, sec. Working in development. https://www.theguardian.com/global-development-professionals-network/2013/oct/29/intellectual-property-rights-google.
 
-## Studio
+### Studio
 ### Interactive Media
 - http://forgotify.com/
 - Re-Captcha
 - BitTorrent
 
-# Modelling Society
-### Media planning
+## [Modeling Society](https://github.com/jbenno/nyuad_politics_of_code/wiki/09)
+#### Media planning
 - Reception and effect
 - Target groups
 - Search and recommendation
 - Viral media
 
-### Simulation
+#### Simulation
 - University of Basel Neher Lab. “COVID-19 Scenarios.” Accessed March 30, 2020. https://neherlab.org/covid19/.
 
-### The big data model
+#### The big data model
 
-## Readings
+### Readings
 - Moz, Inc. “Beginner’s Guide to SEO [Search Engine Optimization].” Moz. Accessed January 6, 2020. https://moz.com/beginners-guide-to-seo.
 - Bilić, Paško. “Search Algorithms, Hidden Labour and Information Control.” Big Data & Society 3, no. 1 (June 1, 2016): 2053951716652159. https://doi.org/10.1177/2053951716652159.
 
-## Studio
-
+### Studio
+Cellular automata, Game of Life, Wa-tor, etc.  
+- [A spreadsheet cellular automaton](https://docs.google.com/spreadsheets/d/16cXxcIMm4QZfOd4sysiY2l6kyIhhuKfZoKNbCqOvzaI/edit?usp=sharing)
 - Dewdney, A. K. “Computer Recreations, December 1984. Sharks and fish wage an ecological war on the toroidal planet Wa-Tor” Scientific American. Accessed March 30, 2020. https://doi.org/10.1038/scientificamerican1284-14.
 - Hill, Christian. “Wa-Tor World.” Learning Scientific Programming with Python, October 3, 2017. https://scipython.com/blog/wa-tor-world/.
-- Gerdner, Martin. “Conway’s Game of Life: Scientific American, October 1970.” Scientific American 223 (October 1970): 120–23. http://www.ibiblio.org/lifepatterns/october1970.html
+- Gerdner, Martin. “Conway’s Game of Life: Scientific American, October 1970.” Scientific American 223 (October 1970): 120–23. http://www.ibiblio.org/lifepatterns/october1970.html  
 
-- Cellular automata, Game of Life, Wa-tor, etc.
+#### Code examples
+- [Game of Life](https://editor.p5js.org/jbenno/sketches/i2dKEMlfq)
+- [Game of Life with von Neumann neighborhood function](https://editor.p5js.org/jbenno/sketches/Zj2sz5oKU)
+- [Cellular automaton generator using Stephen Wolfram's notation](https://editor.p5js.org/jbenno/sketches/cPIfc45wN)
+- [Very simple cellular model of majorities](https://editor.p5js.org/jbenno/sketches/fV155lLmf)
 
-## Final Project
-- Start thinking of the final project. First ideas will be discussed in class.
 
-# AI and Bias
-#### AI Philosophy and Art
+## [AI and Biases](https://github.com/jbenno/nyuad_politics_of_code/wiki/10)
 
 ## Readings
 #### The hype
@@ -318,102 +304,89 @@ Marcus, Gary. “An Epidemic of AI Misinformation.” The Gradient, November 30,
 
 - [Creative AI newsletter](https://medium.com/@elluba/creative-ai-newsletter-9-art-design-and-music-updates-over-the-past-few-months-d0ccf838b72e)
 
-### Methods and Code
+### Studio
+- Here is the Google Spread Sheet for the "spread sheet neural network": https://docs.google.com/spreadsheets/d/1LNcokuQ2SIAgEieiM_uuLRhnSC08tvGrGP1sJ16CGSA/edit?usp=sharing
 - Very good introduction to neural networks working along recognizing handwritten numbers: [Michael Nielsen: Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 - [Christopher Olah's blog](http://colah.github.io)
+- [Multilayer perceptron on a spreadsheet](https://docs.google.com/spreadsheets/d/1vu0XH4NW4FFMMNhj0mF69kyhv3HMM4mPDwAYx-40f_0/edit?usp=sharing)
 
-
-### ml5.js
+#### ml5.js
 - [ml5js.org - the Machine Learning platform extending p5](https://ml5js.org)
 
-### Machine Learning
+#### Machine Learning
 - [Google Developers: Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Machine Learning on AWS](https://aws.amazon.com/machine-learning/)
 
-### Unsupervised Learning: Pattern recognision, dimension reduction, cluster analysis
-- [Voronoi Diagram](https://www.openprocessing.org/sketch/352817/)
-- [k-means cluster analysis](https://www.openprocessing.org/sketch/51404/)
-- Hierarchical cluster
-- Self Organizing Maps (Kohonen Maps)
-
-### Supervised Learning: Regression, prediction
+#### Supervised Learning: Regression, prediction
 - Linear regression
 - Discriminant analysis
 - kNN (k-Nearest-Neighbors)
 - Perceptron
 - Multilayer perceptron (Neural Network)
 
-### Unsubervised Learning: Pattern recognition
+#### Unsupervised Learning: Pattern recognition
 - "Distance metrics": Euclidean, p-metric (Hölder metric), neigborhood functions in grids, cosine distance, ...
 - Cluster analysis
 - Self organizing maps
 
-### TensorFlow
+#### TensorFlow
 - [TensorFlow for beginners](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005584260&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
 - [Introduction to TensorFlow-Slim : complex TensorFlow model building and training made easy by Marvin Bertin](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005580498&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
 - [Learning TensorFlow : a guide to building deep learning systems by Hope et al.](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005581567&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
 
-### p5.js examples
-- [p5.js template in the editor.p5.org](https://editor.p5js.org/jbenno/sketches/OJrU9WC5P)
+## [Blockchain, Crypto-economics and crypto-politics](https://github.com/jbenno/nyuad_politics_of_code/wiki/11)
 
-- [Simple interactive linear regression](https://editor.p5js.org/Lillbre/sketches/HyutFWkvX)
-- [Linear regression with TensorFlow](https://editor.p5js.org/codingtrain/sketches/UtOWCSYYF)
-- [Polinomial regression with TensorFlow](https://editor.p5js.org/codingtrain/sketches/UdXRZxF7e)
-- [Logistic regression](https://medium.com/creative-coding-space/look-no-hands-logistic-regression-classification-in-plain-ole-javascript-e82447e8966a)
-- [Running code for this example](https://editor.p5js.org/jbenno/sketches/RWkRt-4-n)
-- [Perceptron](https://editor.p5js.org/jbenno/sketches/1MKRXfx9O)
-
-# Blockchain, Crypto-economics, Crypto-politics
-### Blockchain
+#### Blockchain
 - Nakamoto, Satoshi. “Bitcoin: A Peer-to-Peer Electronic Cash System,” 2008. https://bitcoin.org/bitcoin.pdf.
 
-### Smart Contracts
+#### Smart Contracts
 - Singh, Amritraj, Reza M. Parizi, Qi Zhang, Kim-Kwang Raymond Choo, and Ali Dehghantanha. “Blockchain Smart Contracts Formalization: Approaches and Challenges to Address Vulnerabilities.” Computers & Security 88 (January 1, 2020): 101654. https://doi.org/10.1016/j.cose.2019.101654.
 - Güçlütürk, Osman Gazi. “The DAO Hack Explained: Unfortunate Take-off of Smart Contracts.” Medium, August 1, 2018. https://medium.com/@ogucluturk/the-dao-hack-explained-unfortunate-take-off-of-smart-contracts-2bd8c8db3562.
 
-### Crypto Economics
+#### Crypto Economics
 - Burke, Jamie. “The Hungry Protocol: How a Protocol Gets Fat.” Outlier Ventures (blog), July 2018. https://outlierventures.io/research/the-hungry-protocol-how-a-protocol-gets-fat/.
 - Barber, Gregory. “What’s Blockchain Actually Good for, Anyway? For Now, Not Much.” Wired. Accessed February 2, 2020. https://www.wired.com/story/whats-blockchain-good-for-not-much/.
 
 
-## Studio
+### Studio
 - Setting up an Ethereum network
 - Smart Contracts
 
-# Future Politics
+## [Future politics: Platform cooperativism, proxy voting, and more](https://github.com/jbenno/nyuad_politics_of_code/wiki/12)
 
-### Platform cooperativism
+#### Platform cooperativism
 - Foundations: Robert Owen and the cooperative idea  
 
 - Arthur, Katie. “What Is Platform Cooperativism and Why Is It Important? – MIT Center for Civic Media,” November 13, 2015. https://civic.mit.edu/2015/11/13/what-is-platform-cooperativism-and-why-is-it-important/.
 - Scholz, Trebor. “The Prospects of Platform Cooperativism.” presented at the MoneyLab#3, Amsterdam, February 12, 2016. https://www.slideshare.net/secret/Jw8asCmKKrlujp.
 
-### Proxy voting
+#### Proxy voting
 - Landemore, Hélène. “Deliberative Democracy as Open, Not (Just) Representative Democracy.” Daedalus. American Academy of Arts & Sciences, 2017. https://www.amacad.org/publication/deliberative-democracy-open-not-just-representative-democracy.
 -Crist, Nathan. “Liquid Democracy.” Bertelsmann Foundation, May 31, 2020. https://www.bfna.org/research/liquid-democracy/.
 - Blumtritt, Joerg. “Liquid Democary.” Memetic Turn, January 8, 2012. http://memeticturn.com/liquid-democracy-en/.
 
-## Studio
+### Studio
 - Setting up a Liquid Democracy system
 
-# From McLuhan to Lacan: The future of self, mind, and body post internet
 
-### Angels in the Nou-Sphere
+## [From McLuhan to Lacan: The future of self, mind, and body post internet](https://github.com/jbenno/nyuad_politics_of_code/wiki/13)
+
+#### Angels in the Nou-Sphere
 - Cobb Kreisberg, Jenifer. “A Globe, Clothing Itself with a Brain | WIRED.” Wired 3, no. 6 (June 1995). https://www.wired.com/1995/06/teilhard/.
 - Blumtritt, Joerg. “Organizing a System of 10 Billion People.” Medium, 2014. https://medium.com/@jbenno/organizing-a-system-of-10-billion-people-32b9bd9789be.
 
-### Cyborgs
+#### Cyborgs
 - https://www.cyborgarts.com/
 - https://cyborgs.cc/  
-
+  
 - Haraway, Donna. “A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century.” In Simians, Cyborgs and Women: The Reinvention of Nature. Routledge, 1991. https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Haraway-Cyborg-Manifesto-2.pdf.
 
-### Lacanian turn
+#### Lacanian turn
 - Blumtritt, Joerg. “Smart Toilets.” Medium, February 8, 2015. https://medium.com/@jbenno/smart-toilets-30ac45d1e121.
 > Jouissance - real joy originates from our partial drives (Lacan) ... the serpent's true bite: we feel joy only after the fall (Nachman)
 https://twitter.com/jbenno/status/662006110744920065
 
-# Final Project
+## [Final Project](https://github.com/jbenno/nyuad_politics_of_code/wiki/14)
 
 ### Interactive Media
 The final project is a work of Interactive Media. You express your own view on politics and code. You can program an application, make a website, design a graphic novel, or make a video - you may just use any of IM's methods.
@@ -434,100 +407,3 @@ The goal is to show the project to the public (sort of) at the IM show case.
 - Presentation is 5 to 7 slides (or equivalent), c. 5 to 10 minutes.
 - Code, designs, images, texts, etc. is submitted via NYU Classes as documents or links to a repository.
 
-## Teaching and Learning Methodologies
-
-⁃ Critical reading and watching: understand what’s the intention, what’s the power structure, and unveil the hidden ideologies.
-⁃ Creativity and maker mindset in a studio-class setup: take apart and repurpose, draft, design, and build.
-⁃ Presentation and discussion: Classes include prepared short presentations by students and discussions on the readings and other assigned material.
-⁃ Inclusion and diversity: We will respect each other in our specific culture and personal values, we will focus on listening to everybody’s voice, in class and by focussing on material outside the mainstream.
- 
-## Assignments
-
-- Reading and watching the provided material is required each week in advance.
-- Assigned readings and videos will be discussed in class. Preparedness (i.e. having read/watched the assigned material), active participation, and therefore attendance to the classes will be graded.
-- All assignments are to be submitted via NYU Classes. Submitting just a link is absolutely sufficient unless stated otherwise.
-
-## Grades and Rubrics
-
-10% Participation: Active contribution to the discussions, showing initiative, taking on tasks outside the assignments.
-30% Assignments: Preparedness (having actually read/watched the material), timely submission of assignments, quality of work (see rubrics), presenting in class.
-30% - Midterm project
-30% - Final project
-
-### Rubrics
-
-20% Comprehension (understanding of the material, structure, argumentation)
-30% Criticism (assessing the form, intention, preliminary conditions of the assigned material; questioning the arguments), resp. technical complexity for programming assignments
-50% Creativity (Showing original thoughts and ideas; compelling form of presentation; creative use of various techniques with focus on interactive media; aesthetics of the experience)
-
-### Assignments will be graded according to the following scale of 100%
-
-- Poor	Evinced poor absorption of material, or made no effort (0-70%)
-- Adequate	Accomplished enough to prove the student encountered the material (71-80%)
-- Good	Demonstrated strong effort incorporating and articulating concepts in a creative way (81-90%)
-- Excellent	Exceptional creativity, understanding and synthesis of the material (91-100%)
-
-## Attendance and Participation
-
-- Attendance is mandatory. Unexcused absences or habitual lateness will negatively impact your grade for the class. Being late for more than 15 minutes with no excuse will count as an unexcused absence. Two unexcused absences will result in a decrease in your overall final grade (i.e. B+ to B). Three will result in an entire letter grade drop (i.e. from A to B). Four will result in two letter grade drops (i.e. from A to C). More than four unexcused absences will result in an F.
-- Engaging in the class discussion, offering feedback to peers, and being mentally present is a major part of the grade.
-- Presenting work and writing in class is required, giving talks on topics is expected.
-
-### Social Media, Messaging, Notifications
-- Absolutely no use of social media or messaging services in class - neither on phone nor on laptop except when it is the explicit topic.
-- Notifications must be set to silence.
-
-## My Availability and Office Hours
-
-If there are any questions, need for help or further instruction, please reach out to me. You may just tell me before or after class or sign up for office hours, usually on Wednesdays.
-
-## Accommodation
-Diversity and inclusion are important tenets of NYUAD and my own teaching philosophy. Please let me know if you have a disability I should be aware of or require special assistance. I am happy to make accommodations.
-
-## Academic Integrity
-The mandatory policies and procedures relating to academic integrity can be found here:  
-https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/academic-integrity-for-students-at-nyu.html
-
-# Guidelines
-## Assignments
-- The week by week assignments as well as signed talks and presentations can be found in this spreadsheet: https://docs.google.com/spreadsheets/d/1StQtCHebt9N1iYmgUWk6Biaq2L8wvsXgRbSctaSprfc/edit?usp=sharing
-- Please send me your writing or other materials via email. Links are fine, too.
-- It helps if you put [Politics of Code] in front of the email subject.
-
-## Critical Work and Documentation
-### Notes
-- Make notes in a sharable doc like Google Doc or on you blog/Wordpress site
-
-### Papers
-The standard writing requirement for all core courses is to write papers of formal, polished writing.
-
-- Write clear, grammatically correct prose
-- Develop well-reasoned and persuasive arguments
-- Use evidence to make points
-- Engage with the thinking of others
-- Credit and cite appropriate sources accurately according to the Chicago Manual of Style https://www.chicagomanualofstyle.org/tools_citationguide.html
-
-### Writing informal pieces
-- 3000 to 6000 characters
-- Pictures and figures are highly recommended
-- Post contain links to all related sources, all documentation uses citations according to the Chicago Manual of Style https://www.chicagomanualofstyle.org/tools_citationguide.html
-
-### Other forms of expressions
-- This is an art class. Many assignments and the projects offer different ways of creative and artistic expression. The use of creativity is highly appreciated.
-- Any variety of expression might substitute an essay.
-- For any format, however, proper documentation on the thoughts and creative process is required. This might however be informal and brief.
-
-## Interactive Media
-### Code
-- Source code has to be published on GitHub or equivalent repository
-- Code has to be commented
-
-### Documentation
-- Documentation of the project in form of a pdf is mandatory. It can be more text-based or more slides-like, however it must explain the rational, design principles, and in particular refer to all sources used.
-- The documentation should enable the installation and application of the project.
-
-## Talks and presentations
-- 10 to 20 minutes long
-- Followed by questions and discussion
-- Can use any form of presentation technique (any form of media)
-- Documentation and material is shared with the class afterwards
