@@ -1,5 +1,5 @@
+<sup>|[&uarr; Back to course home page](/README.md)</sup>  
 # Installing and Running a Wordpress Blog
-<sup>[Back to the course wiki](https://github.com/jbenno/nyuad_politics_of_code/wiki/01#wordpress)</sup>
 
 https://docs.google.com/document/d/10XJaF4g3He7o52U0zsb4mI234dRYQ2bAnTsIziS9jss
 
@@ -50,5 +50,12 @@ https://w008f8b5.kasserver.com/mysqladmin/kaslogin.php
 - The files for the themes are located in the folder `/wp-content/themes`.
 - To install new themes you can upload the theme's files to a new folder under /wp-content/themes
 
-Here we have a closer look on how the theme scripts work:  
-https://github.com/jbenno/nyuad_politics_of_code/blob/master/wp/README.md
+[Here we have a closer look on how the theme scripts work](/files/wp/README.md)
+
+
+***
+
+<sup>|[&uarr; Back to course home page](/README.md)</sup>  
+  
+<sup>NYU Abu Dhabi ***[Politics of Code](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://twitter.com/jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
+
