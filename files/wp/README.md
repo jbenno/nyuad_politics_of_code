@@ -1,6 +1,6 @@
-# Wordpress and PHP
-<sup>[Back to the course wiki](https://github.com/jbenno/nyuad_politics_of_code/wiki).</sup>
+<sup>|[&uarr; Back to course home page](/README.md)</sup>  
 
+# Wordpress and PHP
 For full reference on php see https://www.php.net/manual/en/
 
 ## PHP
@@ -156,5 +156,10 @@ Documentation of WP_Query:
 https://developer.wordpress.org/reference/classes/wp_query/
 
 
-Here you find the files to set up the simple theme including some basic styling:  
-https://github.com/jbenno/nyuad_politics_of_code/tree/master/wp/simple_theme
+Here you find the files to set up the simple theme including some basic styling:  [WP Simple Theme](/files/wp/simple_theme)
+
+***
+
+<sup>|[&uarr; Back to course home page](/README.md)</sup>  
+  
+<sup>NYU Abu Dhabi ***[Politics of Code](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://twitter.com/jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
