@@ -1,16 +1,16 @@
 # Politics of Code - Additional Information
 
-[Week by week schedule](https://github.com/jbenno/nyuad_politics_of_code/wiki#schedule)
+[Week by week schedule](https://github.com/jbenno/nyuad_politics_of_code#schedule)
 
 #### Instructor: Joerg Blumtritt
 #### Course Number: IM-UH 3310
 
 Credit Hours: 4  
 Prerequisites: IM-UH 1010, IM-UH 2310, CS-UH 1001 or ENGR-UH 1000  
-Time: Tues. 14:40 - 15:55, Thurs. 13:15 - 15:55  
-Classroom: IM Lab C3-029  
+Time: Tues. 13:15 - 15:55, Thurs. 16:05 - 17:20  
+Classroom: Online  
 Office Hours: Wednesdays by appointment  
-Office: C3 163  
+Office: Online 
 
 ## Teaching and Learning Methodologies
 
