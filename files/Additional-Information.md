@@ -7,7 +7,7 @@
 
 Credit Hours: 4  
 Prerequisites: IM-UH 1010, IM-UH 2310, CS-UH 1001 or ENGR-UH 1000  
-Time: Tues. 13:15 - 15:55, Thurs. 16:05 - 17:20  
+Time: Tues. 16:05 - 17:20, Thurs. 14:40 - 17:20  
 Classroom: Online  
 Office Hours: Wednesdays by appointment  
 Office: Online 
