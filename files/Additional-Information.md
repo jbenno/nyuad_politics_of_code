@@ -59,9 +59,14 @@ Office: Online
 
 If there are any questions, need for help or further instruction, please reach out to me. You may just tell me before or after class or sign up for office hours, usually on Wednesdays.
 
-## Accommodation
+## Accommodation and Mental Health Awareness
+As a University student, you may experience a range of issues that can interfere with your ability to perform academically or impact your daily functioning, such as: heightened stress; anxiety; difficulty concentrating; sleep disturbance; strained relationships; grief and loss; personal struggles. If you have any well-being or mental health concerns please visit the Counseling Center on the ground floor of the campus center from 9am-5pm Abu Dhabi time Sunday - Thursday, or schedule an appointment to meet with a counselor by calling: +971 02-628-8100, or emailing: nyuad.healthcenter@nyu.edu. If you require mental health support outside of these hours call NYU's Wellness Exchange hotline at +971 02-628-5555, which is available 24 hours a day, 7 days a week. You can also utilize the Wellness Exchange mobile chat feature, details of which you can find on the student portal. If you need help connecting to these supports please contact me directly. 
 Diversity and inclusion are important tenets of NYUAD and my own teaching philosophy. Please let me know if you have a disability I should be aware of or require special assistance. I am happy to make accommodations. 
 
 ## Academic Integrity
-The mandatory policies and procedures relating to academic integrity can be found here:  
-https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/academic-integrity-for-students-at-nyu.html
+NYUAD's policies and procedures relating to academic integrity:  
+At NYU Abu Dhabi, a commitment to excellence, fairness, honesty, and respect within and outside the classroom is essential to maintaining the integrity of our community. By accepting membership in this community, students, faculty, and staff take responsibility for demonstrating these values in their own conduct and for recognizing and supporting these values in others. In turn, these values create a campus climate that encourages the free exchange of ideas, promotes scholarly excellence through active and creative thought, and allows community members to achieve and be recognized for achieving their highest potential.
+All potential violations to this community academic integrity standard (including plagiarism) will be taken seriously and reviewed through NYUAD’s Academic Integrity Procedure. Link: https://students.nyuad.nyu.edu/campus-life/community-standards/policies/academic-integrity/
+
+## IM Lab and Tool Training
+Tool training is mandatory for using the IM LAB (Room C3 029).
