@@ -1,13 +1,14 @@
+<sup>|[&uarr; Back to course home page](/README.md) |</sup>
 # Politics of Code - Additional Information
 
-[Week by week schedule](https://github.com/jbenno/nyuad_politics_of_code#schedule)
+[Week by week schedule](/README.md/#schedule)
 
 #### Instructor: Joerg Blumtritt
 #### Course Number: IM-UH 3310
 
 Credit Hours: 4  
 Prerequisites: IM-UH 1010, IM-UH 2310, CS-UH 1001 or ENGR-UH 1000  
-Time: Tues. 16:05 - 17:20, Thurs. 14:40 - 17:20  
+Time: Classes meet at varying times. See [_Assignments_](#assignments)  
 Classroom: Online  
 Office Hours: Wednesdays by appointment  
 Office: Online 
@@ -24,6 +25,9 @@ Office: Online
 - Reading and watching the provided material is required each week in advance.
 - Assigned readings and videos will be discussed in class. Preparedness (i.e. having read/watched the assigned material), active participation, and therefore attendance to the classes will be graded.
 - All assignments are to be submitted via NYU Classes. Submitting just a link is absolutely sufficient unless stated otherwise.
+- The assignments are listed in newclasses.nyu.edu
+- Please note the dates and times here:  
+  [Overview on the weekly scheduled assignments and talks](https://docs.google.com/spreadsheets/d/15ZQVsHbdcMrUzVLIkae5IOQ4I0IY2HdLl63t61t5VSo/edit?usp=sharing)
 
 ## Grades and Rubrics
 
@@ -70,3 +74,8 @@ All potential violations to this community academic integrity standard (includin
 
 ## IM Lab and Tool Training
 Tool training is mandatory for using the IM LAB (Room C3 029).
+  
+***
+<sup>|[&uarr; Back to course home page](/README.md) |</sup>
+<sup>NYU Abu Dhabi ***[Politics of Code](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://twitter.com/jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
+
