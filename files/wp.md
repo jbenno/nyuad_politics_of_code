@@ -1,7 +1,7 @@
 <sup>|[&uarr; Back to course home page](/README.md)</sup>  
 # Installing and Running a Wordpress Blog
 
-https://docs.google.com/document/d/10XJaF4g3He7o52U0zsb4mI234dRYQ2bAnTsIziS9jss
+https://docs.google.com/spreadsheets/d/1AYytmijpAMuoYe9XtK-uOeOpou1oVgUVAYqL6gcSTQg/edit?usp=sharing
 
 
 See also [Wordpress Documentation at https://wordpress.org/support/](https://wordpress.org/support/).
