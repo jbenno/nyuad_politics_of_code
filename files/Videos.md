@@ -3,6 +3,7 @@
 #### 01 (only studio part)
 https://youtu.be/wyYHZygABwI
 #### 02
-https://youtu.be/779sVV0U_FY
+https://youtu.be/779sVV0U_FY lecture  
+https://youtu.be/sZBLtyRamwE studio
 #### 03
 https://youtu.be/4sLD9cK52P4
