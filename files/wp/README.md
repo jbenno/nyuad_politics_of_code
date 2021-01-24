@@ -17,11 +17,11 @@ Make a new folder under the themes folder and name it something like "simple" or
 
 ### Minimal Wordpress Theme
 The minimum theme consists of two files: `index.php` and a css style sheet referenced in the `index.php`
-- Example files for [index.php](/wp/index.php) and [style.css](/wp/style.css).
+- Example files for [index.php](/files/wp/index.php) and [style.css](/files/wp/style.css).
 - Once oploaded the files of the themes can be edited under the menu option `Appearence\Theme Editor`
 
 This example calls the style sheet and displays the value of the character set variable sitting in the options-table in the sql database.
-php-code is bracketed within the tags ```<?php` and ```?```
+php-code is bracketed within the tags ```<?php ``` and ```?```
 ```html
 <!DOCTYPE html>
 <html>
