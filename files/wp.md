@@ -21,7 +21,7 @@ ftp `ftp.nyuadX.f3c.me`
 If you download the compressed file wordpress-x.x.x.tar you have to decompress it after downloading it. It will unpack into a folder wordpress
 2. Prepare wp-config.php
   Open the file `wp-config-sample.php` in an editor.  
-  Add the required credentials for the database in lines 22 ff  
+  Add the required credentials for the database in lines 22 ff - note: these are different credentials than for the ftp login. You find them in the line "DB" in the Google spreadsheet.
   Input for `DB_NAME` and `DB_USER` for the database are the same.  
   
     *Very Important!*  
