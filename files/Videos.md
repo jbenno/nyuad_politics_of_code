@@ -13,3 +13,9 @@ https://youtu.be/H031L-8AMN0 studio
 
 #### 05
 https://youtu.be/blcTgSw7tP8 lecture  
+
+#### 06
+https://youtu.be/npmJFTEe7CY lecture  
+https://youtu.be/qDXYxk7O5DA studio
+
+
