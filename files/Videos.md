@@ -18,4 +18,7 @@ https://youtu.be/blcTgSw7tP8 lecture
 https://youtu.be/npmJFTEe7CY lecture  
 https://youtu.be/qDXYxk7O5DA studio
 
+#### 07
+https://youtu.be/YXxfhhwwkRg  
+
 
