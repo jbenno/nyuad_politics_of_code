@@ -16,20 +16,29 @@ Along with an introduction to the related political theory and media studies, st
 ## Schedule
 *Subject to modification and clarification*
 
-#### [Introduction](/files/01.md)
-#### [The Politics of Artefacts](/files/02.md)
-#### [Public and Private](/files/03.md)
-#### [Social Media](/files/04.md)
-#### [Surveillance and Control](/files/05.md)
-#### [Big Data](/files/06.md)
-#### [Global and Local](/files/07.md)
-#### [Labor, Authorship, Property](/files/08.md)
-#### [Modeling Society](/files/09.md)
-#### [AI and Biases](/files/10.md)
-#### [Blockchain, Crypto-economics and crypto-politics](/files/11.md)
-#### [Future politics: Platform cooperativism, proxy voting, and more](/files/12.md)
-#### [From McLuhan to Lacan: The future of self, mind, and body post internet](/files/13.md)
-#### [Final Project](/files/14.md)
+### Part 1: Technology is Political
+#### [01 Introduction](/files/01.md)
+#### [02 The Politics of Artefacts](/files/02.md)
+
+### Part 2: The Human Being as Content of Digital Media
+#### [03 Public and Private](/files/03.md)
+#### [04 Social Media](/files/04.md)
+#### [05 Surveillance and Control](/files/05.md)
+#### [06 Big Data](/files/06.md)
+
+### Exploitation
+#### [07 Global and Local](/files/07.md)
+#### [08 Labor, Authorship, Property](/files/08.md)
+
+### Machine Learning
+#### [09 Modeling Society](/files/09.md)
+#### [10 AI and Biases](/files/10.md)
+
+### Future Politics of Code
+#### [11 Blockchain, Crypto-economics and crypto-politics](/files/11.md)
+#### [12 Future politics: Platform cooperativism, proxy voting, and more](/files/12.md)
+#### [13 From McLuhan to Lacan: The future of self, mind, and body post internet](/files/13.md)
+#### [14 Final Project](/files/14.md)
 
 ### Course Material
 [Bibliography](/files/Bibliography.md)  
