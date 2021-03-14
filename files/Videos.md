@@ -21,4 +21,7 @@ https://youtu.be/qDXYxk7O5DA studio
 #### 07
 https://youtu.be/YXxfhhwwkRg  
 
+#### 08
+https://youtu.be/z2tc54aqvto  
+
 
