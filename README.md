@@ -26,15 +26,15 @@ Along with an introduction to the related political theory and media studies, st
 #### [05 Surveillance and Control](/files/05.md)
 #### [06 Big Data](/files/06.md)
 
-### Exploitation
+### Part 3: Exploitation
 #### [07 Global and Local](/files/07.md)
 #### [08 Labor, Authorship, Property](/files/08.md)
 
-### Machine Learning
+### Part 4: Building Models of the Human
 #### [09 Modeling Society](/files/09.md)
 #### [10 AI and Biases](/files/10.md)
 
-### Future Politics of Code
+### Part 5: Future Politics of Code
 #### [11 Blockchain, Crypto-economics and crypto-politics](/files/11.md)
 #### [12 Future politics: Platform cooperativism, proxy voting, and more](/files/12.md)
 #### [13 From McLuhan to Lacan: The future of self, mind, and body post internet](/files/13.md)
