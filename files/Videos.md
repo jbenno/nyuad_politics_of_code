@@ -27,5 +27,10 @@ https://youtu.be/z2tc54aqvto
 #### 09
 https://youtu.be/yfZdD9rXkbY  
 
+#### 10/11
+https://www.youtube.com/watch?v=nTp2loPmPdQ lecture and studio 1: technical introduction and building a neural network in a spread sheet
+https://www.youtube.com/watch?v=I0yQvXIqDyE studio 2: coding a neural network in p5.js  
+https://youtu.be/Hvv4iBLvD9g lecture on AI art and philosophy
+
 
 
