@@ -32,12 +32,11 @@ Along with an introduction to the related political theory and media studies, st
 
 ### Part 4: Building Models of the Human
 #### [09 Modeling Society](/files/09.md)
-#### [10 AI and Biases](/files/10.md)
+#### [10 and 11 AI and Biases](/files/10.md)
 
 ### Part 5: Future Politics of Code
-#### [11 Blockchain, Crypto-economics and crypto-politics](/files/11.md)
-#### [12 Future politics: Platform cooperativism, proxy voting, and more](/files/12.md)
-#### [13 From McLuhan to Lacan: The future of self, mind, and body post internet](/files/13.md)
+#### [12 Blockchain, Crypto-economics and crypto-politics](/files/11.md)
+#### [13 Future politics: Platform cooperativism, proxy voting, and more](/files/12.md)
 #### [14 Final Project](/files/14.md)
 
 ### Course Material
