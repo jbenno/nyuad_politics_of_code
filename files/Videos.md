@@ -32,5 +32,9 @@ https://www.youtube.com/watch?v=nTp2loPmPdQ lecture and studio 1: technical intr
 https://www.youtube.com/watch?v=I0yQvXIqDyE studio 2: coding a neural network in p5.js  
 https://youtu.be/Hvv4iBLvD9g lecture on AI art and philosophy
 
+#### 12
+https://youtu.be/H1t_P0qXLSY first of two: Blockchain basics and some code examples  
+https://youtu.be/Qhjx1P3s8_o second video: Smart contracts, token, and applications
+
 
 
