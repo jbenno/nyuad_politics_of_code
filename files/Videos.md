@@ -1,5 +1,7 @@
 # Links to video recorded lectures on Youtube
 
+- The whole playlist on Youtube: https://www.youtube.com/watch?v=779sVV0U_FY&list=PL3MYvDynexnLU6_3-ykQqfIoiBJ_eSFMP 
+
 #### 01 (only studio part)
 https://youtu.be/wyYHZygABwI
 #### 02
@@ -36,5 +38,6 @@ https://youtu.be/Hvv4iBLvD9g lecture on AI art and philosophy
 https://youtu.be/H1t_P0qXLSY first of two: Blockchain basics and some code examples  
 https://youtu.be/Qhjx1P3s8_o second video: Smart contracts, token, and applications
 
-
+#### 13
+https://youtu.be/vPzfCY3_0sQ
 
