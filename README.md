@@ -41,7 +41,8 @@ Along with an introduction to the related political theory and media studies, st
 
 ### Course Material
 [Bibliography](/files/Bibliography.md)  
-[Other Material](/files/Material.md)
+[Other Material](/files/Material.md)  
+[The video recorded lectures on Youtube](/files/Videos.md)
 
 ## Assignments
 The assignments are listed in newclasses.nyu.edu
