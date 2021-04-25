@@ -13,13 +13,25 @@ Classroom: Online
 Office Hours: Wednesdays by appointment  
 Office: Online 
 
-## Teaching and Learning Methodologies
+## Learning Outcomes
+### Course learning outcomes
+(reference to programme learning outcomes in brackets (PLO)
+1. (PLO 4): Critical reading and watching: understand what’s the intention, what’s the power structure, and unveil the hidden ideologies.
+2. (PLO 6): Creativity and maker mindset in a studio-class setup: take apart and repurpose, draft, design, and build.
+3. (PLO 7): Presentation and discussion: Classes include prepared short presentations by students and discussions on the readings and other assigned material.
+4. (PLO 8): Inclusion and diversity: We will respect each other in our specific culture and personal values, we will focus on listening to everybody’s voice, in class and by focussing on material outside the mainstream.
 
-⁃ Critical reading and watching: understand what’s the intention, what’s the power structure, and unveil the hidden ideologies.
-⁃ Creativity and maker mindset in a studio-class setup: take apart and repurpose, draft, design, and build.
-⁃ Presentation and discussion: Classes include prepared short presentations by students and discussions on the readings and other assigned material.
-⁃ Inclusion and diversity: We will respect each other in our specific culture and personal values, we will focus on listening to everybody’s voice, in class and by focussing on material outside the mainstream.
- 
+### Programme Learning Outcomes
+Upon completion of the major in Interactive Media at NYU Abu Dhabi, all students are expected to have fulfilled the following:
+1. Research and Understanding: IM students will cultivate a substantive understanding of the past, present, and future landscape of Interactive Media.
+2. Analytical Thinking: IM students will be challenged to answer fundamental questions relating to the field of Interactive Media.
+3. Conceptual Thinking: IM students will develop conceptual skills through the use of computational and interactive media tools to create project-based work and project oriented research.
+4. Critical Thinking: IM students will refine their critical thinking skills by analysing and critiquing work in cultural, social, historical, ethical, and aesthetic contexts.
+5. Technical Implementation: IM students will cultivate technical skills with contemporary media technologies to execute their coursework.
+6. Creative Processes: IM students will gain the ability to explore, innovate, and realise creative ideas in multiple fields of inquiry and interest.
+7. Organisation and Communication: IM students will develop professional practices of delivering and sharing their work.
+8. Collaboration: IM Students will gain experience in collaboration through active participation in group and team-based work.
+
 ## Assignments
 
 - Reading and watching the provided material is required each week in advance.
