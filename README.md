@@ -32,7 +32,7 @@ Along with an introduction to the related political theory and media studies, st
 
 ### Part 4: Building Models of the Human
 #### [09 Modeling Society](/files/09.md)
-#### [10 and 11 AI and Biases](/files/10.md)
+#### [10 and 11 AI](/files/10.md)
 
 ### Part 5: Future Politics of Code
 #### [12 Blockchain, Crypto-economics and crypto-politics](/files/11.md)
