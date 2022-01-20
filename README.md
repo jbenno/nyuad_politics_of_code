@@ -1,6 +1,6 @@
 # Politics of Code
 ### NYU Abu Dhabi, Interactive Media
-### Spring 2021, IM-UH 3310
+### Spring 2022, IM-UH 3310
 #### Joerg Blumtritt
 [Additional information on assignments, grading, administrative matters](/files/Additional-Information.md)
 
