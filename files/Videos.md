@@ -3,7 +3,7 @@
 - The whole playlist on Youtube: https://www.youtube.com/watch?v=779sVV0U_FY&list=PL3MYvDynexnLU6_3-ykQqfIoiBJ_eSFMP 
 
 #### 01 (only studio part)
-https://youtu.be/wyYHZygABwI
+https://youtu.be/bZ2lT2nwK98
 #### 02
 https://youtu.be/779sVV0U_FY lecture  
 https://youtu.be/sZBLtyRamwE studio
