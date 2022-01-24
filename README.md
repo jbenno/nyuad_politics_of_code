@@ -45,7 +45,7 @@ Along with an introduction to the related political theory and media studies, st
 [The video recorded lectures on Youtube](/files/Videos.md)
 
 ## Assignments
-The assignments are listed in newclasses.nyu.edu
+The assignments are listed in brightspace.nyu.edu
 [Overview on the weekly scheduled assignments and talks](https://docs.google.com/spreadsheets/d/10sTVIMTuhJcucApQ2_A34UC9M1YQ270t3X0l6DZnmDw/edit?usp=sharing)
 
 ***
