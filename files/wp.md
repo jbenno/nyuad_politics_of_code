@@ -19,22 +19,13 @@ ftp `ftp.nyuadX.f3c.me`
 #### Installation
 1. Download the current Wordpress distribution at https://wordpress.org/download/  
 If you download the compressed file wordpress-x.x.x.tar you have to decompress it after downloading it. It will unpack into a folder wordpress
-2. Prepare wp-config.php
-  Open the file `wp-config-sample.php` in an editor.  
-  Add the required credentials for the database in lines 22 ff - note: these are different credentials than for the ftp login. You find them in the line "DB" in the Google spreadsheet.
-  Input for `DB_NAME` and `DB_USER` for the database are the same.  
-  
-    *Very Important!*  
-  At line 66 change the value of `$table_prefix = 'wp_';` from wp to the name of your subdomain `$table_prefix = 'nyuadX_';`  
-  Since we are all using the same database the data of the other installations will be overwritten otherwise.  
-  
-    Rename the file to `wp-config.php`.
-  
-
-3. Transfer (upload) the all files and subfolders in the `/wordpress` folder to your webspace. Put `ftp.nyuadX.f3c.me` (X from 1 to 6 whatever is yours), login and password as provided.
+2. Transfer (upload) the all files and subfolders in the `/wordpress` folder to your webspace. Put `ftp.nyuadX.f3c.me` (X from 1 to 6 whatever is yours), login and password as provided.
 3. Open the url `http://nyuadX.f3c.me` in your browser (X 1 to 6).  
   Select the language.  
-  Populate the form - chose a name like wp_admin for the user name; more users can be added later.  
+  Populate the form. Fill in the database name, username, and password as provided in the Google Spreadsheet. Don't change the field 'host' - it stays with localhost.  
+  -> In the field 'Table Prefix' fill in your unique prefix. IMPORTANT: Do not use 'wp_' - change it.  
+  Then continue.
+  Populate the next form - chose a name like wp_admin for the user name; more users can be added later.  
   Generally you should chose an email address that you don't need to work with on this blog later. The administrater email should be seperate from the users.
   Copy the password because it will not be displayed later.
   Log in with the admin user name and the copied password.
