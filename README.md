@@ -1,6 +1,6 @@
 # Politics of Code
-### NYU Abu Dhabi, Interactive Media
-### Spring 2022, IM-UH 3310
+### NYU ITP
+### Spring 2024
 #### Joerg Blumtritt
 [Additional information on assignments, grading, administrative matters](/files/Additional-Information.md)
 
@@ -10,6 +10,8 @@ Code is political. It is a means of political processes and activism. It is poli
 In the course we aim to deconstruct the design, implementation, and data of software as a political medium. We will work through political applications such as simulations, ownership of intangible assets, predictive policing, algorithmic recommendations, suggestions, and filters, social networks, and the blockchain.
 
 Along with an introduction to the related political theory and media studies, students will work on several hands-on projects to offer actual or speculative alternatives to the existing systems. To that end, this course will include several workshops in JavaScript, Python, and other tools.
+
+A previous year's course has been recorded and transcribed: [The video recorded lectures on Youtube](/files/Videos.md)
 
 ***
 
@@ -37,7 +39,7 @@ Along with an introduction to the related political theory and media studies, st
 ### Part 5: Future Politics of Code
 #### [12 Blockchain, Crypto-economics and crypto-politics](/files/11.md)
 #### [13 Future politics: Platform cooperativism, proxy voting, and more](/files/12.md)
-#### [14 Final Project](/files/14.md)
+#### [14 Final Session](/files/14.md)
 
 ### Course Material
 [Bibliography](/files/Bibliography.md)  
