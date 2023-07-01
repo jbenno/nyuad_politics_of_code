@@ -52,5 +52,5 @@ The assignments are listed in brightspace.nyu.edu
 
 ***
 
-<sup>NYU Abu Dhabi ***[Politics of Code](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://twitter.com/jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
+<sup>NYU ***[Politics of Code](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://twitter.com/jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
 
